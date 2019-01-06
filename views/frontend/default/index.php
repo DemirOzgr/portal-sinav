@@ -1,12 +1,13 @@
-<?= $this->title = 'Modül çalışıyor.'; ?>
+
 <div class="site-index">
 
     <div class="jumbotron">
-        <h1>Kou Osl Yii2 App</h1>
+        <h1>SINAV PROGRAMI MODULUNE HOS GELDİNİZ</h1>
 
-        <p class="lead">Örnek uygulamayı başarılı bir şekilde çalıştırdınız.</p>
-
-        <p><a class="btn btn-lg btn-success" href="#">Modüller ve konfürgasyon!</a></p>
+        
+         <p><a class="btn btn-lg btn-success" href="http://portal.kouosl/sinav/sinav/">Vize Takvimi</a></p>
+         <p><a class="btn btn-lg btn-success" href="http://portal.kouosl/sinav/sinav/">Final Takvimi</a></p>
+        
     </div>
 
 </div>
